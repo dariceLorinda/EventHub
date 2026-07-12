@@ -115,10 +115,9 @@ EventHub/
 
 ## Deployment
 
-This project was developed and tested locally using Django and SQLite.
+Application URL:
 
-No public deployment URL is available.
-
+https://eventhub-5dwe.onrender.com
 ## Author
 
 Darice Lorinda Dezo Simo
